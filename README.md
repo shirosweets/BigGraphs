@@ -1,7 +1,8 @@
 # GrafosGrandes
 
-# Grafos grandes para testear velocidad y uso de memoria.
-No es necesario que ustedes obtengan estos mismos tiempos pero si deben poder hacer 1100 Greedys con reordenes por bloques en 15 minutos para cada uno de ellos. (los tiempos que se detallan abajo son con 3000 reordenes, con unas maquinas de famaf de hace algun tiempo).
+## Grafos grandes para testear velocidad y uso de memoria.
+
+No es necesario que ustedes obtengan estos mismos tiempos pero si deben poder hacer 1100 Greedys con reordenes por bloques en 15 minutos para cada uno de ellos (los tiempos que se detallan abajo son con 3000 reordenes, con unas máquinas de famaf de hace algún tiempo).
 
 ## 
 
